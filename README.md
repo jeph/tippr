@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/i1NvZ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/0weQh8h.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Giphy](https://giphy.com/apps/giphycapture).
 
@@ -40,7 +40,7 @@ Made the label color change to black and then change back to grey depending on w
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2017] [Jephrey Liu]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
